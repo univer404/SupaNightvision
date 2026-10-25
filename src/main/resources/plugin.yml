@@ -1,0 +1,16 @@
+name: SupaNightvision
+version: 1.0.0
+main: com.supanightvision.SupaNightvision
+api-version: '1.21'
+author: univer404
+description: Toggleable night vision that survives death and milk consumption.
+commands:
+  nightvision:
+    description: Toggle night vision on or off.
+    aliases: [nv]
+    usage: /nightvision
+    permission: supanightvision.use
+permissions:
+  supanightvision.use:
+    description: Allows a player to toggle night vision.
+    default: true
