@@ -1,0 +1,9 @@
+# SupaNightvision settings
+messages:
+  # MiniMessage supports hex colors, gradients, and formatting tags.
+  activated: "<#A8A8A8>ɴɪɢʜᴛ ᴠɪsɪᴏɴ ᴀᴄᴛɪᴠᴀᴛᴇᴅ"
+  deactivated: "<#A8A8A8>ɴɪɢʜᴛ ᴠɪsɪᴏɴ ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇᴅ"
+  no-permission: "<#A8A8A8>ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪssɪᴏɴ."
+  player-only: "<#A8A8A8>ᴏɴʟʏ ᴘʟᴀʏᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ."
+  chat: true
+  actionbar: true
